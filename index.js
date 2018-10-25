@@ -8,6 +8,5 @@ const driver = {
 }
 
 function updateDriverWithKeyAndValue(driver, key, value) {
- driver.name = value
- driver['name'] = value
+ driver[key] = value
 }
