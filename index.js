@@ -3,7 +3,6 @@ const driver = {
   
 }
 
-const updateDriverWithKeyAndValue = {
- driver: 'Muath'
+function updateDriverWithKeyAndValue(driver, key, value) {
  
 }
