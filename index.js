@@ -1,7 +1,5 @@
 // Write your solution in this file!
-const driver = {
-  
-}
+const driver = {}
 
 // driver = {
   name: 'Sam',
